@@ -21,7 +21,7 @@ or, sometimes, the technology is totally FREE to use when being combined with In
 You, quite simply, just go and visit that site; then, can ask the bot questions.../   
 or, you can tell it precisely what to do...such as generate this/or, generate that, including:      
 
-- text: poem/play
+- text: joke/poem/play
 - programming language code
 - foreign language
 - pictures
