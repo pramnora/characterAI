@@ -13,9 +13,9 @@ Of late, I've noticed that there has been a huge plethora of web sites...which a
 You just go there, 'sign up/register'...;   
 or, sometimes, the technology is totally FREE to use when being combined with Internet Search Engines:   
 
-- Apple Siri  
-- Google Bard  
-- Microsoft Bing  
+- Apple Siri (https://www.apple.com/uk/siri/)     
+- Google Bard/Gemini (https://gemini.google.com/app)      
+- Microsoft Bing (https://www.bing.com/?mkt=en-GB)    
 - etc.  
 
 You, quite simply, just go and visit that site; then, can ask the bot questions.../   
