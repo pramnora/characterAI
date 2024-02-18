@@ -27,7 +27,7 @@ or, you can tell it precisely what to do...such as generate this/or, generate th
 - pictures
 - etc.  
 
--(**NOTE**: Some of these AI bots do only 'specific' tasks: generate/draw a pic;  
+-(**NOTE**: Some of these AI bots do only 'specific' tasks: generate/draw a pic(openai.com/open.ai);   
 whilst other bots are a lot more 'general' in use, such as: search engine related.)-   
 
 -----
