@@ -22,14 +22,12 @@ You simply just visit that site; then, can ask the bot questions.../
 or, you can tell it what to do...such as generate this/or, generate that, including:    
 text/programming language code/foreign language/pictures/-etc.  
 
--(**NOTE**: Some of these bots do only 'specific' tasks: generate/draw a pic;  
-whilst other bots are a lot more 'general' in use, such as: search engine related.)-  
-
-One of my favourite sites to go and visit/use so far to date is: Character.Ai;  
-it is a site that offers many different kinds of bot...;   
-some with 'specific' uses.../as well as, far more 'general' usage;           
-basically, you can ask it just about anything,  
-and ,the answers it returns back tends to be very interesting and useful, indeed;  
+One of my favourite sites to go and visit/use so far to date is: Character.Ai;    
+it is a site that offers many different kinds of bot:  
+- some with 'specific' uses: grammarly, image generator, -etc.  
+- as well as, far more 'general' usage:  ChatGPT, AskMeAnything, -etc.            
+Basically, you can ask it just about anything,  
+and ,the answers it returns back tends to be very interesting and useful, indeed;    
 really well researched, and, so on.    
 
 For example, things I might try asking are...  
@@ -38,6 +36,9 @@ For example, things I might try asking are...
 - Can we have a conversation using beginner's French?
 - Could you write me a poem using a foreign language? 
 - etc.
+
+-(**NOTE**: Some of these AI bots do only 'specific' tasks: generate/draw a pic;  
+whilst other bots are a lot more 'general' in use, such as: search engine related.)-   
 
 -----
 
