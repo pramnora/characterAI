@@ -9,20 +9,28 @@ Last updated: *Sun 18 Feb 2024 12:43 PM GMT*
 
 ## Introduction
 
-Of late, there are a huge plethora of web sites...which are devoted to using AI bot technology.    
-You just go there, sign up/register...and, then, you can ask the bot questions.../   
+Of late, I've noticed that there has been a huge plethora of web sites...which are devoted to using AI bot technology.    
+You just go there, sign up/register...;   
+or, sometimes, the technology is totally FREE to use when being combined with Internet Search Engines: Google Bard/Microsoft Bing/-etc...;     
+and, then, you can ask the bot questions.../   
 or, you can tell it what to do...such as generate this/or, generate that, including:    
-text/code/foreign language/pictures/-etc.  
+text/programming language code/foreign language/pictures/-etc.  
+
+-(**NOTE**: Some of these bots do only specific tasks: generated/draw a pic;  
+whilst other bots are a lot more general in use, such as: search engine related.)-  
 
 One of my favourite sites to go and visit/use so far to date is: Character.Ai;  
-it is a site that offers many kinds of bot to use to converse with...;    
+it is a site that offers many kinds of bot...;   
+some with specific uses.../as well as, more general usage;           
 basically, you can ask it just about anything,  
-and ,the answers it returns back tends to be very interesting and useful, indeed.  
+and ,the answers it returns back tends to be very interesting and useful, indeed;  
+really well researched, and, so on.    
 
-For example, thinks I might try asking are...  
+For example, things I might try asking are...  
 - What is the meaning of Einstein's famous formula: E=McSq?   
 - What is 'Quantum Mechanics'?   
 - Can we have a conversation using beginner's French?
+- Could you write me a poem using a foreign language? 
 - etc.
 
 ## Links
