@@ -22,6 +22,8 @@ You simply just visit that site; then, can ask the bot questions.../
 or, you can tell it what to do...such as generate this/or, generate that, including:    
 text/programming language code/foreign language/pictures/-etc.  
 
+-----
+
 One of my favourite sites to go and visit/use so far to date is: Character.Ai;    
 it is a site that offers many different kinds of bot:  
 - some with 'specific' uses: grammarly, image generator, -etc.  
@@ -30,6 +32,8 @@ it is a site that offers many different kinds of bot:
 Basically, you can ask it just about anything,  
 and ,the answers it returns back tends to be very interesting and useful, indeed;    
 really well researched, and, so on.    
+
+-----
 
 For example, things I might try asking are...  
 - What is the meaning of Einstein's famous formula: E=McSq?   
