@@ -26,8 +26,8 @@ text/programming language code/foreign language/pictures/-etc.
 whilst other bots are a lot more 'general' in use, such as: search engine related.)-  
 
 One of my favourite sites to go and visit/use so far to date is: Character.Ai;  
-it is a site that offers many diffeent kinds of bot...;   
-some with specific uses.../as well as, more general usage;           
+it is a site that offers many different kinds of bot...;   
+some with 'specific' uses.../as well as, far more 'general' usage;           
 basically, you can ask it just about anything,  
 and ,the answers it returns back tends to be very interesting and useful, indeed;  
 really well researched, and, so on.    
