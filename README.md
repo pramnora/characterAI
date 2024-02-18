@@ -18,9 +18,17 @@ or, sometimes, the technology is totally FREE to use when being combined with In
 - Microsoft Bing  
 - etc.  
 
-You simply just visit that site; then, can ask the bot questions.../   
-or, you can tell it what to do...such as generate this/or, generate that, including:    
-text/programming language code/foreign language/pictures/-etc.  
+You, quite simply, just go and visit that site; then, can ask the bot questions.../   
+or, you can tell it precisely what to do...such as generate this/or, generate that, including:      
+
+- text: poem/play
+- programming language code
+- foreign language
+- pictures
+- etc.  
+
+-(**NOTE**: Some of these AI bots do only 'specific' tasks: generate/draw a pic;  
+whilst other bots are a lot more 'general' in use, such as: search engine related.)-   
 
 -----
 
@@ -41,9 +49,6 @@ For example, things I might try asking are...
 - Can we have a conversation using beginner's French?
 - Could you write me a poem using a foreign language? 
 - etc.
-
--(**NOTE**: Some of these AI bots do only 'specific' tasks: generate/draw a pic;  
-whilst other bots are a lot more 'general' in use, such as: search engine related.)-   
 
 -----
 
