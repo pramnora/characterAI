@@ -38,7 +38,7 @@ it is a site that offers many different kinds of bot:
 - as well as, far more 'general' usage:  ChatGPT, AskMeAnything, -etc.
              
 Basically, you can ask it just about anything,  
-and ,the answers it returns back tends to be very interesting and useful, indeed;    
+and, the answers it returns back tends to be very interesting and useful, indeed;    
 really well researched, and, so on.    
 
 -----
